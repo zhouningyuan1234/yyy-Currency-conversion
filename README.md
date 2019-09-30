@@ -15,5 +15,6 @@
       100钻石=1高级钻石<br>
       </span>
     </div>
+		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
 	</body>
 </html>
