@@ -13,6 +13,7 @@
       100积分=1货币<br>
       100货币=1钻石<br>
       100钻石=1高级钻石<br>
+      100高级钻石=1代币<br>
       </span>
     </div>
 		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
